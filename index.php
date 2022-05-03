@@ -8,7 +8,7 @@ Stampare di nuovo il paragrafo e la sua lunghezza, dopo aver sostituito con tre 
 
 $nome= 'Erik';
 
-$stringName= "<h2> Ciao mi chiamo " . $nome . " </h2>";
+$string= "<h2> Ciao mi chiamo " . $nome . " </h2>";
 
 
 
